@@ -1,2 +1,3 @@
 # alarm
-a simple alarm clock
+created a simple alarm using while loop and if conditions in python
+
